@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Miniport 2.5 by HTML5 UP
 html5up.net | @n33co
 Abstracted by | @CCemenike
@@ -23,3 +24,9 @@ Credits:
 		jQuery (jquery.com)
 		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
 		skelJS (skeljs.org)
+=======
+miniport
+========
+
+Mini-Portfolio is just a simple abstract web presence created under some few hours using component based re-engineering to mimick a site I found online. Use as you pleased, customize and tweet. For learning and personal purposes only
+>>>>>>> cc14971eecfeddc3af375446758792528caf13d8
